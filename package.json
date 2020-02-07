@@ -1,0 +1,8 @@
+{
+  "name": "EZ-List",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EZ-Lists/EZ-List.git",
+  "author": "Kanek Perez <business.kanekperez@gmail.com>",
+  "license": "MIT"
+}
